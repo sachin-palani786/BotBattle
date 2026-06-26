@@ -128,7 +128,7 @@ console.log("Sending to backend");
 
 
 
-fetch("http://localhost:5000/verify",{
+fetch("https://botbattle-backend.onrender.com/verify",{
 
 
 method:"POST",
