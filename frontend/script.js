@@ -128,7 +128,7 @@ console.log("Sending to backend");
 
 
 
-fetch("https://botbattle-backend.onrender.com/verify",{
+fetch("https://botbattle-1u4w.onrender.com/verify",{
 
 
 method:"POST",
